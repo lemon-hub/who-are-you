@@ -5,12 +5,13 @@ Hello guys!
 Today im making a new project in GitHub!
 I am very proud that i can use GitHub!
 
-So yes! Lets start!
+These are simple questions that can be asked...
+
+Yes! So lets start with questions that can be asked:
 
 Who are you?
-How old are you?
+Do you like he/she?
 Why are you here?
-How did you discover me?
-Do you like GitHub?
+How did you get there?
 
-These are simple questions that can be asked...
+This is just some of the billion of questions that can be asked...
