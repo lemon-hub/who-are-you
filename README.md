@@ -1,4 +1,4 @@
-# who-are-you
+# simple-questions
 
 Hello guys!
 
