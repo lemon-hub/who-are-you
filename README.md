@@ -5,6 +5,8 @@ Hello guys!
 Today im making a new project in GitHub!
 I am very proud that i can use GitHub!
 
+These are simple questions that can be asked...
+
 Yes! So lets start with questions that can be asked:
 
 Who are you?
